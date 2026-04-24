@@ -1,6 +1,6 @@
 ---
-title: "Thinking Cybersecurity: Chapter 06"
+title: "Mastering AWS Cloud: Chapter 06"
 author: "Paulo H. Leocadio"
-date: 2026-04-22
-description: "Defining the limits of what we can know about an agent’s internal `state`."
+date: 2023-08-16
+description: "AWS and its partners offer a wide range of tools and features to help customers meet their security objectives and adhere to compliance policies."
 ---
