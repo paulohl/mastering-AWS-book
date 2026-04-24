@@ -1,6 +1,6 @@
 ---
-title: "Thinking Cybersecurity: Chapter 01"
+title: "Mastering AWS Cloud: Chapter 01"
 author: "Paulo H. Leocadio"
-date: 2026-04-22
-description: "A formal analysis of agentic AI frameworks in cybersecurity."
+date: 2023-08-16
+description: "Immersion on AWS architecture showing components and respective services."
 ---
