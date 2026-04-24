@@ -1,6 +1,6 @@
 ---
-title: "Thinking Cybersecurity: Chapter 09"
+title: "Mastering AWS Cloud: Chapter 09"
 author: "Paulo H. Leocadio"
-date: 2026-04-22
-description: "Creating synthetic data to test the `Gravity` of our defenses."
+date: 2023-08-16
+description: "AWS offers a broad set of tools and services to support development workflows for native iOS/Android, React Native, and JavaScript developers."
 ---
