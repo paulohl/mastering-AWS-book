@@ -1,6 +1,6 @@
 ---
-title: "Thinking Cybersecurity: Chapter 10"
+title: "Mastering AWS Cloud: Chapter 10"
 author: "Paulo H. Leocadio"
-date: 2026-04-22
-description: "Proving the Cannon holds true across different `Universal Constants` (Cloud providers)."
+date: 2023-08-16
+description: "AWS innovative business applications with the same on-demand scalability, reliability, pay-as-you go pricing, and machine learning that drives AWS cloud infrastructure."
 ---
