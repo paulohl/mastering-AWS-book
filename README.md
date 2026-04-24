@@ -1,7 +1,7 @@
 ---
 title: "Mastering AWS Cloud: Cloud adoption using the AWS cloud computing ecosystem"
 author: "Paulo H. Leocadio"
-date: 2026-04-24
+date: 2025-10-28
 isbn: "978-93-6589-061-7"
 description: "A comprehensive, expert-guided journey through the AWS ecosystem."
 ---
