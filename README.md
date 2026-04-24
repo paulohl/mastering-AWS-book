@@ -1,48 +1,39 @@
 ---
-title: "Thinking Cybersecurity: AI Automation through Diffused Intelligence"
+title: "Mastering AWS Cloud: Cloud adoption using the AWS cloud computing ecosystem"
 author: "Paulo H. Leocadio"
-date: 2026-04-22
-description: "AI Automation through Diffused Intelligence explores the intersection of generative AI, cloud infrastructure, and cybersecurity architecture."
+date: 2025-11-28
+description: "A comprehensive, expert-guided journey through the AWS ecosystem."
 ---
 
-# Thinking Cybersecurity 
-## AI Automation through Diffused Intelligence
+# Mastering AWS Cloud
 
-<img src="/Cambridhe_logos/cambridge_scholars_publishing.jpg" width="200"/>       © 2026 Cambridge Scholars Publishing
+<img src="\book_contract/2145(Linkedin).png" width="">
 
-_Thinking Cybersecurity_: AI Automation through Diffused Intelligence explores the intersection of generative AI, cloud infrastructure, and cybersecurity architecture. Focused on real-world deployment of open-source frameworks such as Hugging Face Diffusers, the book offers a technical and conceptual foundation for building agentic and reproducible AI systems in secure environments.
 
-### Repository Governance
-* [MIT License](LICENSE) | [Security Policy](SECURITY.md) | [Contributing Guidelines](CONTRIBUTING.md)
+<br>
+<br>
 
----
 
-## Research Chapters
+![BPB Publications](/book_contract/BPB-PUBLICATIONS.png "BPB Publications Logo") 
+[published by BPB Publishing, © 2025](https://www.bpbonline.com "BPB Publications Homepage")
+<br>
 
-| Part | Chapter | Topic | DOI Reference |
-| :--- | :--- | :--- | :--- |
-| **I** | [01](chapter-01/) | The Rise of Agentic AI in Cybersecurity | [10.22541/au.177307127.70400431](https://doi.org/10.22541/au.177307127.70400431/v1) |
-| **I** | [02](chapter-02/) | Architecting Cognitive Defense Systems | [10.22541/au.177307127.75154947](https://doi.org/10.22541/au.177307127.75154947/v1) |
-| **I** | [03](chapter-03/) | Foundations, Equations, and Cyber Risk Models | [10.22541/au.177307128.80330137](https://doi.org/10.22541/au.177307128.80330137/v1) |
-| **II** | [04](chapter-04/) | Transforming Detection: Prompt Engineering | [10.22541/au.177307128.87282639](https://doi.org/10.22541/au.177307128.87282639/v1) |
-| **II** | [05](chapter-05/) | Triage, Forensics, and Feedback Loops | [10.22541/au.177307129.91287300](https://doi.org/10.22541/au.177307129.91287300/v1) |
-| **II** | [06](chapter-06/) | Model Governance and Ethics | [10.22541/au.177333649.93116487](https://doi.org/10.22541/au.177333649.93116487/v1) |
-| **III**| [07](chapter-07/) | Agent Architectures in Secure Environments | [10.22541/au.177333651.12549862](https://doi.org/10.22541/au.177333651.12549862/v1) |
-| **III**| [08](chapter-08/) | Platforms, Privacy, Vaults, Execution Surfaces | [10.22541/au.177385895.59902692](https://doi.org/10.22541/au.177385895.59902692/v1) |
-| **III**| [09](chapter-09/) | Synthetic Data for Red-Teaming | [10.22541/au.177490746.62271795](https://doi.org/10.22541/au.177490746.62271795/v1) |
-| **IV** | [10](chapter-10/) | Can You Run Diffusers Here? | [10.22541/au.177385896.68564977](https://doi.org/10.22541/au.177385896.68564977/v1) |
-| **IV** | [11](chapter-11/) | From Models to Markets: Industrializing | [10.22541/au.177385898.86242954](https://doi.org/10.22541/au.177385898.86242954/v1) |
 
----
 
-## How to Cite
-Leocadio, P. H. (2026). *Thinking Cybersecurity: AI Automation through Diffused Intelligence*. GitHub repository: https://github.com/paulohl/thinking-cybersecurity
+<br>
+<br>
 
-### BibTeX
-```bibtex
-@book{leocadio2026thinking,
-  author = {Leocadio, Paulo H.},
-  title = {Thinking Cybersecurity: AI Automation through Diffused Intelligence},
-  year = {2026},
-  url = {[https://github.com/paulohl/thinking-cybersecurity](https://github.com/paulohl/thinking-cybersecurity)}
-}
+
+__Pre-print v2 - November 14, 2025__      
+This repo stores a preprint version of the book and has not been peer reviewed. Data may be preliminary.      
+
+
+__PER CHAPTER PRE-PRINT DOI__ — _Please refer to the table below_      
+Status: __Archived pre-publication draft__ (2024) — _Superseded_      
+
+
+These chapters are an early developmental version later finalized and published as part of:        
+Leocadio, Paulo H. (2025). Mastering AWS Cloud. BPB Publications — ISBN: 9789365890617 (Released October 28, 2025).         
+
+
+A significantly updated, expanded, and editorially refined version appears in the published edition. This preprint is preserved for scholarly transparency, version tracking, and citation continuity.        
