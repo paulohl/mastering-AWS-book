@@ -7,14 +7,14 @@ description: "A comprehensive, expert-guided journey through the AWS ecosystem."
 
 # Mastering AWS Cloud
 
-<img src="\book_contract/2145(Linkedin).png" width="">
+<img src="BPB_logos/2145(Linkedin).png" width="">
 
 
 <br>
 <br>
 
 
-![BPB Publications](/book_contract/BPB-PUBLICATIONS.png "BPB Publications Logo") 
+![BPB Publications](BPB_logos/BPB-PUBLICATIONS.png "BPB Publications Logo") 
 [published by BPB Publishing, © 2025](https://www.bpbonline.com "BPB Publications Homepage")
 <br>
 
