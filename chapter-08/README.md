@@ -1,6 +1,6 @@
 ---
-title: "Thinking Cybersecurity: Chapter 08"
+title: "Mastering AWS Cloud: Chapter 08"
 author: "Paulo H. Leocadio"
-date: 2026-04-22
-description: "TWhere the internal logic is protected from external `physics`."
+date: 2023-08-16
+description: "Application integration on AWS is a suite of services that enable communication between decoupled components within microservices, distributed systems, and serverless application."
 ---
