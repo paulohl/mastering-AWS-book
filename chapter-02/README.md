@@ -1,6 +1,6 @@
 ---
-title: "Thinking Cybersecurity: Chapter 02"
+title: "Mastering AWS Cloud: Chapter 02"
 author: "Paulo H. Leocadio"
-date: 2026-04-22
-description: "Refining raw background noise into low-entropy Intelligence."
+date: 2023-08-16
+description: "AWS Compute is a set of physical servers that power an operating system (OS) through provided memory, processing, and storage infrastructure."
 ---
