@@ -2,8 +2,10 @@
 title: "Mastering AWS Cloud: Cloud adoption using the AWS cloud computing ecosystem"
 author: "Paulo H. Leocadio"
 date: 2026-04-24
+isbn: "978-93-6589-061-7"
 description: "A comprehensive, expert-guided journey through the AWS ecosystem."
 ---
+
 
 # Mastering AWS Cloud
 
@@ -21,7 +23,7 @@ description: "A comprehensive, expert-guided journey through the AWS ecosystem."
 ## Status: Reference Implementation (Pre-print v2)
 This repository hosts the pre-print source material for the BPB Publications manuscript. 
 
-> **Note:** This implementation is provided as a research reference. Please consult the [official publication](https://www.bpbonline.com) for the finalized, peer-reviewed text.
+> **Note:** This implementation is provided as a research reference. Please consult the [official publication](https://www.amazon.com/dp/9365890616) for the finalized, peer-reviewed text.
 
 ---
 
@@ -47,7 +49,7 @@ This repository hosts the pre-print source material for the BPB Publications man
 ---
 
 ## How to Cite
-Leocadio, P. H. (2025). *Mastering AWS Cloud: Cloud adoption using the AWS cloud computing ecosystem*. GitHub repository: https://github.com/paulohl/mastering-aws-cloud
+Leocadio, P. H. (2025). *Mastering AWS Cloud: Cloud adoption using the AWS cloud computing ecosystem* (ISBN: 978-93-6589-061-7). BPB Publications. GitHub repository: https://github.com/paulohl/mastering-aws-cloud
 
 ### BibTeX
 ```bibtex
@@ -55,5 +57,17 @@ Leocadio, P. H. (2025). *Mastering AWS Cloud: Cloud adoption using the AWS cloud
   author = {Leocadio, Paulo H.},
   title = {Mastering AWS Cloud: Cloud adoption using the AWS cloud computing ecosystem},
   year = {2025},
+  isbn = {978-93-6589-061-7},
+  publisher = {BPB Publications},
   url = {[https://github.com/paulohl/mastering-aws-cloud](https://github.com/paulohl/mastering-aws-cloud)}
 }
+```
+
+<br>
+<br>
+
+<a href="[https://example.com](https://www.amazon.com/dp/B0FY35J68C)">
+  <img src="BPB_logos/2145(Linkedin).png" width="" alt="Available on Amazon">
+</a>
+
+
