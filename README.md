@@ -67,7 +67,7 @@ Leocadio, P. H. (2025). *Mastering AWS Cloud: Cloud adoption using the AWS cloud
 <br>
 <br>
 
-<a href="[https://example.com](https://www.amazon.com/dp/B0FY35J68C)">
+<a href="https://www.amazon.com/dp/B0FY35J68C">
   <img src="BPB_logos/2145(Linkedin).png" width="" alt="Available on Amazon">
 </a>
 
