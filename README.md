@@ -59,7 +59,8 @@ Leocadio, P. H. (2025). *Mastering AWS Cloud: Cloud adoption using the AWS cloud
   year = {2025},
   isbn = {978-93-6589-061-7},
   publisher = {BPB Publications},
-  url = {[https://github.com/paulohl/mastering-aws-cloud](https://github.com/paulohl/mastering-aws-cloud)}
+  url = {[https://github.com/paulohl/mastering-aws-cloud](https://github.com/paulohl/mastering-aws-cloud)},
+  orcid = {0000-0002-4992-4541}
 }
 ```
 
